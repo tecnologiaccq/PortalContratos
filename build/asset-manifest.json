@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contratosccq/static/css/main.db405c32.css",
+    "main.js": "/contratosccq/static/js/main.57e93a11.js",
+    "static/media/dxicons.woff": "/contratosccq/static/media/dxicons.6694c6928e98f0513c8b.woff",
+    "static/media/dxicons.ttf": "/contratosccq/static/media/dxicons.7436273bff9296ba686f.ttf",
+    "static/media/dxicons.woff2": "/contratosccq/static/media/dxicons.b34cdb383dcd2b3ab411.woff2",
+    "index.html": "/contratosccq/index.html",
+    "main.db405c32.css.map": "/contratosccq/static/css/main.db405c32.css.map",
+    "main.57e93a11.js.map": "/contratosccq/static/js/main.57e93a11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db405c32.css",
+    "static/js/main.57e93a11.js"
+  ]
+}
